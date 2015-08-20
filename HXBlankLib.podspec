@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "HXBlankLib"
   s.version          = "1.0"
-  s.summary          = "A short description of HXBlankLib."
+  s.summary          = "Example iOS Static Library - HXBlankLib."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                        This iOS Static library is used to explain how to distribute iOS Static library via cocoapods
                        DESC
 
   s.homepage         = "https://github.com/hsujah/HXBlankLib.git"
